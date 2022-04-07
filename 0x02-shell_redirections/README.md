@@ -1,1 +1,1 @@
-Print hello world
+Scipt for redirections 002
